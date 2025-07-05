@@ -1,2 +1,2 @@
 # Cybershield
-OWASP top10 vulnerability detector
+A web-based vulnerability detector which detects vulnerability in your website and gives you methods to fix them.
